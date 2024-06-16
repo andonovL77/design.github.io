@@ -23,13 +23,13 @@ body {
 }
 .icons-icon {
     border-radius:10px;
-    background: url("../images/icons.jpeg") -4px no-repeat;
+    background: url("images/icons.jpeg") -4px no-repeat;
     width: 6.5%;
     background-size: 190px;
     height: 100%;
 }
 .icons-icon:hover {
-    background: url("../images/icons.jpeg") -84px;
+    background: url("images/icons.jpeg") -84px;
     background-size: 190px;
 }
 #main {
@@ -126,7 +126,7 @@ p {
     text-align: center;
     border: 8px solid #3A4D39;
     align-content: end;
-    background: url("../images/ohrid-img.jpeg") -110px;
+    background: url("images/ohrid-img.jpeg") -110px;
     width: 40%;
     background-size: cover;
     border-radius: 20px;
@@ -154,7 +154,7 @@ p {
 }
 #picture2 {
     display: inline-block;
-    background: url("../images/img_15.png") no-repeat;
+    background: url("images/img_15.png") no-repeat;
     background-position: center;
     width: 45%;
 }
