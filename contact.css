@@ -24,13 +24,13 @@ body {
 }
 .icons-icon {
     border-radius:10px;
-    background: url("../images/icons.jpeg") -4px no-repeat;
+    background: url("images/icons.jpeg") -4px no-repeat;
     width: 6.5%;
     background-size: 190px;
     height: 100%;
 }
 .icons-icon:hover {
-    background: url("../images/icons.jpeg") -84px;
+    background: url("images/icons.jpeg") -84px;
     background-size: 190px;
 }
 #main {
@@ -142,21 +142,21 @@ p {
 }
 .facebook {
     display: inline-block;
-    background: url("../images/icons2.jpg");
+    background: url("images/icons2.jpg");
     mix-blend-mode: multiply;
     width: 100px;
     height: 100px;
 }
 .instagram{
     display: inline-block;
-    background: url("../images/icons2.jpg") -180px 0px;
+    background: url("images/icons2.jpg") -180px 0px;
     mix-blend-mode: multiply;
     width: 100px;
     height: 100px;
 }
 .twitter {
     display: inline-block;
-    background: url("../images/icons2.jpg") -268px 0px;
+    background: url("images/icons2.jpg") -268px 0px;
     mix-blend-mode: multiply;
     width: 100px;
     height: 100px;
